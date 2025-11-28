@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";  /* 👈 ADD THIS LINE */
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
